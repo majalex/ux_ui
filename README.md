@@ -1,3 +1,9 @@
+#GPT-3
+
+Building a ReactJs app based on the figma design: 
+https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=CsZEspbgKxOQOWLl-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
