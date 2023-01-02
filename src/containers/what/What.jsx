@@ -3,9 +3,7 @@ import './what.css'
 
 const What = () => {
   return (
-    <div>
-      
-    </div>
+    <div>What</div>
   )
 }
 
