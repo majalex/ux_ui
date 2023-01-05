@@ -1,6 +1,6 @@
 # GPT-3 - a modern ux_ui landing page
 
-Building a ReactJs app based on this [figma design](https://ux-ui-majalex.vercel.app/).
+Building a ReactJs app based on this [figma design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=Eo8Y0L0EKW53Ocv8-0).
 Using CSS BEM model.
 
 ### [Live Site](https://ux-ui-majalex.vercel.app/)
