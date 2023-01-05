@@ -1,5 +1,14 @@
 # GPT-3
 
+Building a ReactJs app based on this [figma design](https://ux-ui-majalex.vercel.app/).
+
+### [Live Site](https://ux-ui-majalex.vercel.app/)
+
+![4](https://user-images.githubusercontent.com/105987428/210781509-fa03bf76-6854-4287-80e2-7e79feee2bb8.png)
+
+
+# GPT-3
+
 Building a ReactJs app based on the figma design: 
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=CsZEspbgKxOQOWLl-0
 
